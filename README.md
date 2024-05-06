@@ -1,16 +1,15 @@
-### Hi there 👋
+# 💫 Sobre Mi:
+¡Hola Bienvenido ! 👋 Soy Cristian Nahuel Rodríguez, un joven apasionado por el mundo de la programación y el desarrollo web, <br>Tengo  18 años, me gusta aprender nuevas practicas  y  sumergirme en nuevos proyectos he desafíos. Soy de Uruguay, me enorgullece formar parte de la  comunidad global de desarrolladores.<br><br>Desde que escribí mis primeras líneas de código, supe que estaba destinado a este emocionante viaje. Mi pasión por aprender y crecer me impulsa a buscar constantemente nuevas oportunidades para expandir mis habilidades y conocimientos.<br><br>Mi objetivo es claro: destacarme en el mundo del desarrollo web, no solo como un programador competente, sino como alguien que aporta creatividad, innovación y soluciones efectivas a cada proyecto en el que participo.<br><br>Estoy emocionado de formar parte de proyectos significativos que desafíen mis límites y me permitan crecer tanto personal como profesionalmente. Creo firmemente en el poder del trabajo en equipo y estoy ansioso por colaborar con personas  que compartan mi pasión por crear experiencias web excepcionales.<br><br>Si estás buscando un colaborador entusiasta, comprometido  ¡no dudes en contactarme! Estoy listo para embarcarme en esta emocionante aventura junto a ti.<br><br>¡Vamos a crear algo extraordinario juntos! 💻✨<br><br>Espero que este texto capture la atención de quienes visiten tu perfil y refleje tu entusiasmo y determinación para sobresalir en el mundo del desarrollo web. Si necesitas ajustes o cambios adicionales, ¡no dudes en decírmelo!<br><br><br>
 
-<!--
-**NahuelR-Dev/NahuelR-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=NahuelR-Dev&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=NahuelR-Dev&theme=great-gatsby&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NahuelR-Dev&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![](https://visitcount.itsvg.in/api?id=NahuelR-Dev&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
